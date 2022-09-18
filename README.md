@@ -1,0 +1,2 @@
+# License
+License for TacBot
